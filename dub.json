@@ -1,0 +1,13 @@
+{
+	"description": "Microeconomic simulations.",
+	"dependencies": {
+		"derelict-gl3": "~>1.0.24",
+		"derelict-sdl2": "~>2.1.4"
+	},
+	"authors": [
+		"quevangel"
+	],
+	"copyright": "none",
+	"license": "none",
+	"name": "micro"
+}
